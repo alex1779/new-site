@@ -120,6 +120,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
+If you like this project please share my portfolio with recruters!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
