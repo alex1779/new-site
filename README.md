@@ -113,7 +113,6 @@ Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view it in your browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/joramot/space-traveler/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +120,6 @@ Feel free to check the [issues page](https://github.com/joramot/space-traveler/i
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this Awesome Books project please share my portfolio with recruters!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
